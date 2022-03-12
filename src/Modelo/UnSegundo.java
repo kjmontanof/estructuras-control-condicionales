@@ -33,6 +33,10 @@ public class UnSegundo {
     public void setSegundos(int segundos) {
         this.segundos = segundos;
     }
+    
+    public void pruebaEliminar(){
+        String s = "";
+    }
 
     public void unSegundo(int h, int m, int s) {
         horas = h;
