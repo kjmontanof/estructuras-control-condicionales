@@ -34,10 +34,6 @@ public class UnSegundo {
         this.segundos = segundos;
     }
     
-    public void pruebaEliminar(){
-        String s = "";
-    }
-
     public void unSegundo(int h, int m, int s) {
         horas = h;
         minutos = m;
